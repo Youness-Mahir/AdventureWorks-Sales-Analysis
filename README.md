@@ -4,7 +4,7 @@
 This repository contains an end-to-end SQL Data Analysis project leveraging the AdventureWorks2025 relational database. The project progresses from initial database auditing and data quality preparation to exploratory data analysis (EDA), advanced business queries, and strategic business recommendations.
 
 ---
-
+```
 ## Repository Structure
 ├── 01_data_audit.sql
 ├── 02_data_cleaning.sql
@@ -12,7 +12,7 @@ This repository contains an end-to-end SQL Data Analysis project leveraging the 
 ├── 04_business_analysis.sql
 ├── 05_insights_and_recommendations.md
 └── README.md
-
+```
 ---
 
 ## Project Roadmap & Execution Summary
