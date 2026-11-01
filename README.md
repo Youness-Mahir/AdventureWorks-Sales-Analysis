@@ -6,12 +6,12 @@ This repository contains an end-to-end SQL Data Analysis project leveraging the 
 ---
 
 ## Repository Structure
-01_data_audit.sql
-02_data_cleaning.sql
-03_exploratory_data_analysis.sql
-04_business_analysis.sql
-05_insights_and_recommendations.md
-README.md
+├── 01_data_audit.sql
+├── 02_data_cleaning.sql
+├── 03_exploratory_data_analysis.sql
+├── 04_business_analysis.sql
+├── 05_insights_and_recommendations.md
+└── README.md
 
 ---
 
